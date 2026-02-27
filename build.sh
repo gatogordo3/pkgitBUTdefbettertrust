@@ -1,1 +1,0 @@
-nim c -d:release -o:pkgit src/pkgit.nim

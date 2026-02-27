@@ -1,3 +1,0 @@
-- [-] branch selection
-- [ ] binary installs, including cargo-binstall and maybe the bin PM
-- [ ] (maybe) query info/readme of a given package
